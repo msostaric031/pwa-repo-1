@@ -1,0 +1,22 @@
+{
+  "name": "Moja Progresivna Web App",
+  "short_name": "myPWA",
+  "description": "Progresivna aplikacija koju želimo instalirati na mobitelu.",
+  "start_url": "index.html",
+  "display": "fullscreen",
+  "theme_color": "#B12A34",
+  "background_color": "#B12A34",
+  "icons": [
+    {
+      "src": "media/icons/icon-32.png",
+      "sizes": "32x32",
+      "type": "image/png"
+    },
+
+    {
+      "src": "media/icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
